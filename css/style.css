@@ -4,6 +4,9 @@
     --light: #F5F5F5;
     --dark: #353535;
 }
+body {
+    font-family: sans-serif;
+  }
 
 .fw-medium {
     font-weight: 500 !important;
