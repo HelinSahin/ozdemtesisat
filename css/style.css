@@ -1,11 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #AB7442;
+    --primary: #4273ab;
     --light: #F5F5F5;
     --dark: #353535;
 }
 body {
-    font-family: sans-serif;
+    font-family: "open-sans",sans-serif;
   }
 
 .fw-medium {
@@ -46,7 +46,7 @@ body {
 
 /*** Button ***/
 .btn {
-    font-weight: 500;
+    font-weight: 600;
     transition: .5s;
 }
 
@@ -95,7 +95,7 @@ body {
     padding: 25px 0;
     color: #FFFFFF;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 600;
     text-transform: uppercase;
     outline: none;
 }
@@ -267,15 +267,6 @@ body {
     padding-left: 0;
 }
 
-.section-title h1::before,
-.section-title h1::after {
-    position: absolute;
-    content: "";
-    width: 45px;
-    height: 5px;
-    bottom: 0;
-    background: var(--dark);
-}
 
 .section-title h1::before {
     left: 0;
@@ -351,7 +342,7 @@ body {
 /*** Project Portfolio ***/
 #portfolio-flters li {
     display: inline-block;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--dark);
     cursor: pointer;
     transition: .5s;
@@ -612,7 +603,7 @@ body {
 }
 
 .footer .copyright {
-    padding: 25px 0;
+    padding: 15px 0;
     font-size: 15px;
     border-top: 1px solid rgba(256, 256, 256, .1);
 }
