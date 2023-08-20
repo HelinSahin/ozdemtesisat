@@ -355,13 +355,13 @@ progress {
     font-size: 4.5rem;
 }
 }.display-3 {
-    font-size: calc(1.525rem + 3.3vw);
+    font-size: calc(1.755rem + 3.3vw);
     font-weight: 900;
     line-height: 1.2;
 }
 @media (min-width: 1200px) {
     .display-3 {
-    font-size: 4rem;
+    font-size: 3.75rem;
 }
 }.display-4 {
     font-size: calc(1.475rem + 2.7vw);
