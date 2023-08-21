@@ -1,8 +1,7 @@
 /********** Template CSS **********/
 @font-face {
     font-family: 'sans-serif';
-    src: local('sans-serif'), local('Pacifico-Regular'),
-      url(https://fonts.googleapis.com.woff2)
+    src:url(https://fonts.googleapis.com.woff2)
         format('woff2');
     font-display: swap;
   }
