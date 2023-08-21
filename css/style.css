@@ -617,18 +617,3 @@ body {
 }
 
 
-.facebook-icon {
-    background: url('facebook-logo.png') no-repeat;
-    width: 24px; /* Facebook logosunun genişliği */
-    height: 24px; /* Facebook logosunun yüksekliği */
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.instagram-icon {
-    background: url('instagram-logo.png') no-repeat;
-    width: 24px; /* Instagram logosunun genişliği */
-    height: 24px; /* Instagram logosunun yüksekliği */
-    display: inline-block;
-    vertical-align: middle;
-}
