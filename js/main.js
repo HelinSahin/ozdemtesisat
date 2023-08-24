@@ -67,7 +67,7 @@
 
 
 
-/* document.addEventListener('contextmenu', event => event.preventDefault());
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 document.onkeydown = function(e) {
 
@@ -103,4 +103,3 @@ document.onkeydown = function(e) {
     }
 
 }
- */
