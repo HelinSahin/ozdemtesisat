@@ -1,10 +1,4 @@
 /********** Template CSS **********/
-@font-face {
-    font-family: 'sans-serif';
-    src:url(https://fonts.googleapis.com.woff2)
-        format('woff2');
-    font-display: swap;
-  }
 :root {
     --primary: #4273ab;
     --light: #F5F5F5;
